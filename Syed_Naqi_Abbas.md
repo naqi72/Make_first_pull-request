@@ -1,6 +1,6 @@
 # Academics:
 
- Undergraduate in B. Tech at Kmala Nehru Institute of Technology, Sultanpur
+ Undergraduate in B. Tech at Kamla Nehru Institute of Technology, Sultanpur
 
 ## Interest:
  - Competitive Programming
